@@ -1,0 +1,38 @@
+1. multi-queue, multiple cashier
+2. single queue, multiple shared cashier
+3. single queue, one cashier
+
+	•Single server: customers line up and there is only one server
+	•Parallel servers: customers line up and there are several servers
+	•Tandem queue: there are many counters and customers can decide going where to queue
+
+
+
+1. Actually Clocktime
+2. Psychology (perceived speed, feel losing to people more than beating them, mirrors for distraction)
+3. Fairness. No cutting! But express lanes are OK (will take less time), and priority lines OK (emergency room, more deserved, still contemptment for TSA PreCheck)
+
+
+Incentives: 
+1. First in, first out (encourages longer waiting)
+2. Last in, first out (encourages less waiting) 
+
+
+What you know
+Displays of clocks/time left
+Call-back services, buzzing pagers (so you can do something else)
+
+
+
+FROM SLATE:
+1) We get bored when we wait in line. 
+2) We really hate it when we expect a short wait and then get a long one. 
+3) We really, really hate it when someone shows up after us but gets served before us. 
+
+
+http://www.nytimes.com/2012/08/19/opinion/sunday/why-waiting-in-line-is-torture.html?_r=0
+http://www.nytimes.com/2007/06/23/business/23checkout.html
+http://www.slate.com/articles/business/operations/2012/06/queueing_theory_what_people_hate_most_about_waiting_in_line_.html
+
+http://www.bbc.com/news/magazine-34153628
+https://www.washingtonpost.com/news/wonk/wp/2015/09/09/researchers-have-discovered-a-better-way-to-wait-in-line-and-youre-going-to-hate-it/
